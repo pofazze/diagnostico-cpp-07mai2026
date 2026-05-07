@@ -91,14 +91,17 @@ FBI = {
     },
 
     "paulo-victor-pereira": {
-        "quote_manifesto": "Caso de sucesso clínico que ainda não virou negócio.",
-        "narrativa_publica": "Você é sócio fundador da ICOD desde 2018 — oito anos consolidando uma das clínicas multidisciplinares ortopédicas mais respeitadas de Brasília, com presença em Águas Claras e Paranoá. É o único cirurgião de pé e tornozelo dos dez sócios. Tem 151 avaliações verificadas no Doctoralia, todas cinco estrelas. Os pacientes usam as mesmas três palavras pra te descrever: <em>atencioso, claro, tranquilo.</em> <strong>Hoje é a segunda call CPP em 2 dias — diagnóstico aprofundado.</strong>",
+        "quote_manifesto": "Sua bio diz 'devolvendo movimento e qualidade de vida'. É bio de Águia. E você cobra R$ 350 a consulta.",
+        "narrativa_publica": "Você é sócio fundador da ICOD desde 2018 — oito anos consolidando uma das clínicas multidisciplinares ortopédicas mais respeitadas de Brasília, com presença em Águas Claras e Paranoá. É o único cirurgião de pé e tornozelo dos dez sócios. Tem 151 avaliações verificadas no Doctoralia, todas cinco estrelas. <em>E tem Instagram pessoal</em> — @pv_pereira, com bio que promete 'devolvendo movimento e qualidade de vida', Linktree, Threads ativo, e seguido pelo Dr. Mateus Jerônimo, pelo Dr. Silvio Leite e pelo Dr. Leonidas Gripp. <strong>Hoje é a segunda call CPP em 2 dias — diagnóstico aprofundado com novo achado.</strong>",
         "descobertas_publicas": [
             "<strong>CRM-DF 22186 · RQE 17862</strong> — Ortopedia e Traumatologia, subespecialização Pé e Tornozelo",
             "<strong>Sócio fundador ICOD desde 01/06/2018</strong> — Instituto da Coluna Vertebral, Ortopedia, Dor e Otorrino (CNPJ 30.599.744/0001-35)",
             "<strong>Único cirurgião de pé e tornozelo dos 10 sócios</strong> da ICOD — sem concorrência interna no nicho",
             "<strong>2 endereços</strong>: Águas Claras (Albany Medical Center) + Paranoá",
             "<strong>151 avaliações verificadas Doctoralia · 5,0 estrelas</strong>",
+            "<strong>Instagram @pv_pereira</strong> — 2.014 seguidores · 54 posts · bio com promessa direta ('🏆 Devolvendo movimento e qualidade de vida · 🦴 Pé e Tornozelo · 📍 Brasília · 📅 Agende sua...')",
+            "<strong>Linktree + Threads ativos</strong> — stack digital embrionário mas montado",
+            "<strong>Seguido por @drmateusjeronimo + @silvioortopedistadf + @leonidas_gripp</strong> (2 mentorados CPP) — já está dentro do círculo",
             "<strong>Carteira robusta de convênios institucionais</strong>: Postal Saúde · Saúde Caixa · BACEN · STF-MED · TST/TRE Saúde · Casembrapa · Conab · Serpro",
         ],
         "pitch_direcionado": [
@@ -112,13 +115,17 @@ FBI = {
              "Manter os de ticket mais alto, sair de Postal/Camed/Saúde Caixa"),
         ],
         "pontos_internos": [
-            "**SEGUNDA CALL CPP em 2 dias** — diagnóstico aprofundado · ele já ouviu nosso pitch ontem",
+            "**SEGUNDA CALL CPP em 2 dias** — diagnóstico aprofundado",
+            "**CORREÇÃO MASSIVA**: dossiê inicial supôs que ele NÃO tinha Instagram pessoal — ESTAVA ERRADO. @pv_pereira existe com 2.014 seguidores, bio nichada, Linktree e Threads",
+            "**Mateus já segue · Silvio Leite segue · Leonidas Gripp segue** = ele JÁ está no círculo CPP, não é estranho",
+            "Highlights pessoais: Buenos Aires (viagem) · volksfriends (Volkswagen com placa 01 = colecionador?) · alter (provável alteração de carro? Alter do Chão?) — vida pessoal cheia, vibe descolada",
+            "3.751 seguindo vs 2.014 seguidores = ele engaja ativamente (não passivo) · ratio inverso típico de quem ainda está construindo audiência",
+            "54 posts em ~3-5 anos = produção esparsa · falta consistência · não é volume",
             "Sem Lattes, sem PubMed, sem palestras — operador 100% prático, não acadêmico",
             "Hierarquia interna ICOD: Giancarlo Mariano é RT (estrela técnica), Joubert Toledo é admin (clínica paralela em Lago Sul). Paulo Victor é o sócio operador",
             "Demografia pacientes: 40-70 anos · funcionários públicos federais e aposentados · classe média (não classe alta)",
             "1 review crítica (Esmeraldino, ago/24): 'faz cirurgia mas a mão de obra tem que pagar' = teto de monetização",
-            "Hipótese residência: HBDF ou HRAN (rotas clássicas DF) + fellowship HOG Goiânia ou IOT-HCFMUSP. CONFIRMAR",
-            "Perfil presumido: introvertido técnico, alta empatia, baixa autopromoção. NÃO é alfa-influencer",
+            "**Patrick deve usar Mateus + Silvio + Leonidas como ponte de identificação imediata**: 'eles já mudaram o jogo no DF — você é o próximo'",
         ],
     },
 
